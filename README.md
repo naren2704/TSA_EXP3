@@ -2,8 +2,9 @@
 # Date: 11-04-2025
 
 ```
-Name: Yenuganti Prathyusha
-Reg No.: 212223240187
+### Developed by: NARENDRAN B
+### RegisterNumber: 212222240069
+
 ```
 
 ### AIM:
